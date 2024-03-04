@@ -1,28 +1,28 @@
 {
-  "name": "semisi",
+  "name": "zlatamaltz",
   "version": "0.0.6",
-  "description": "A Minimal Node.JS Wrapper Around semisi-api",
+  "description": "A Minimal Node.JS Wrapper Around senkomsim0-api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zlatamaltz/semisi.git"
+    "url": "https://github.com/zlatamaltz/senkomsim0.git"
   },
   "keywords": [
-    "semisi",
+    "senkomsim0",
     "api",
     "wrapper",
     "node.js",
-    "semisi-api"
+    "senkomsim0-api"
   ],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zlatamaltz/semisi/issues"
+    "url": "https://github.com/zlatamaltz/senkomsim0/issues"
   },
-  "homepage": "https://github.com/zlatamaltz/semisi",
+  "homepage": "https://github.com/zlatamaltz/senkomsim0",
   "dependencies": {
     "q": "^1.2.0",
     "superagent": "^1.1.0"
