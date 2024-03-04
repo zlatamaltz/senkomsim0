@@ -1,0 +1,30 @@
+{
+  "name": "semisi",
+  "version": "0.0.6",
+  "description": "A Minimal Node.JS Wrapper Around semisi-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zlatamaltz/semisi.git"
+  },
+  "keywords": [
+    "semisi",
+    "api",
+    "wrapper",
+    "node.js",
+    "semisi-api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zlatamaltz/semisi/issues"
+  },
+  "homepage": "https://github.com/zlatamaltz/semisi",
+  "dependencies": {
+    "q": "^1.2.0",
+    "superagent": "^1.1.0"
+  }
+}
